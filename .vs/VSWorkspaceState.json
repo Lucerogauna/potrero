@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\taller-front",
+    "\\taller-front\\src",
+    "\\taller-front\\src\\components",
+    "\\taller-front\\src\\components\\layout",
+    "\\taller-front\\src\\components\\layout\\MainFooter",
+    "\\taller-front\\src\\components\\layout\\MainSidebar",
+    "\\taller-front\\src\\data",
+    "\\taller-front\\src\\layouts",
+    "\\taller-front\\src\\scss"
+  ],
+  "SelectedNode": "\\taller-front\\src\\data\\sidebar-nav-items.js",
+  "PreviewInSolutionExplorer": false
+}
